@@ -51,27 +51,3 @@ Just provide a list of all team members with their names (and optionally contact
 Here, you can (and should) mention all libraries you used, data sources, as well as other credits such as inspirations for your projects, papers that helped with your methodology or similar things.
 
 If you want, you can create subsections for all of these, or just create bullet-points for it. If possible, provide a link to the original source.
-
-
-```
-.
-├── exercise_01
-│   └── 01_Assignment_Python.ipynb
-│   └── 01_Assignment_Python_solved.ipynb
-│   └── README.md
-├── ...
-├── exercise_n
-│   └── n_Assignment_Python.ipynb
-│   └── n_Assignment_Python_solved.ipynb
-│   └── some_data.csv
-│   └── README.md
-└── README.md
-```
-
-## Contact
-
-This repository is made and maintained by Florentin Meinecke.
-
-For any questions regarding the repository itself, or the contents of an exercise notebook you are working on, please send an [email](mailto:florentin.meinecke@stud.uni-goettingen.de) to me.
-
-Alternatively, you can reach out on [RocketChat](https://chat.gwdg.de), either to me directly, or in the "PythonLecture-Coordination" group.
