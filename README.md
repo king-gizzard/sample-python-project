@@ -20,11 +20,28 @@ As mentioned in the **outline document**, at least 60% of these have to be imple
 
 ### Data Sources and Retrieval
 
+Will your data be sourced
+- From an open dataset (eg. kaggle, data paper,...)
+- Collected from an API or a Webcrawler
+- From your own research
+
+Reference your data source(s) as well as any tools you will use to collect it, such as API libraries, conversion tools etc.
+
 ### Data Storage and Handling
+
+Will you be using a database system (eg. SQL, MongoDB,...)?
+How will you load and process data, and what libraries do you plan to use for this (eg. pandas/polars, numpy,...)?
 
 ### User Management
 
+Will your project have distinct users?
+If so, how do you store and check credentials?
+Are there different roles (eg. customer/admin) with privileges?
+
 ### Interface
+
+What kind of interface are you planning (CLI/GUI)?
+What libraries do you need for this?
 
 ### Statistical Analysis
 
